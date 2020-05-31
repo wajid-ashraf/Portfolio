@@ -18,7 +18,8 @@ h5 {
 }
 /* active */
 .active--nav {
-  color: var(--hover);
+  color: var(--design) !important;
+  font-weight: bold;
 }
 /* active */
 .top {
@@ -45,9 +46,7 @@ h5 {
   min-height: 100vh;
   background-color: var(--side-bar-color);
 }
-.navbar-nav a i {
-  color: var(--design);
-}
+
 .navbar--list .list-group li {
   background-color: var(--side-bar-color);
 }
@@ -65,7 +64,7 @@ h5 {
 
 .list-group-item:hover {
   font-weight: bold;
-  color: var(--hover);
+  color: var(--design);
 }
 
 .logo h1 {
