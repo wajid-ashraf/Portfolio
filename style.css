@@ -178,7 +178,7 @@ h5 {
   background-color: var(--side-bar-color);
 }
 .card {
-  border-radius: 10 px;
+  border-radius: 12 px;
 }
 .card-body {
   background-color: var(--design);
