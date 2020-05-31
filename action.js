@@ -16,3 +16,8 @@ $('.list-group-item').click(function (e) {
     $(e.target).addClass('active--nav');
   }
 });
+
+$('.press').click(function (e) {
+  console.log(e.target);
+  $(e.target).addClass('show');
+});
