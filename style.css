@@ -16,6 +16,11 @@ h4,
 h5 {
   font-family: 'Kalam', cursive;
 }
+/* active */
+.active--nav {
+  color: var(--hover);
+}
+/* active */
 .top {
   background-color: #fff;
   border-radius: 5px;
