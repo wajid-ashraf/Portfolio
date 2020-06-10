@@ -1,0 +1,22 @@
+{
+  "name": "wajidashraf",
+  "version": "1.0.0",
+  "description": "Portfolio site",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wajid-ashraf/Portfolio.git"
+  },
+  "author": "wajid",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wajid-ashraf/Portfolio/issues"
+  },
+  "homepage": "https://github.com/wajid-ashraf/Portfolio#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
